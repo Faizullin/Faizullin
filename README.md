@@ -15,3 +15,7 @@
 * [cite_start]**Backend:** Django, FastAPI, Express, Node.js, Laravel[cite: 113].
 * [cite_start]**Infrastructure & Tools:** Docker, Git, GCP, PostgreSQL, MongoDB, Redis[cite: 90, 113, 114].
 * [cite_start]**Interests:** Game Development (Unity), Robotics (Arduino), Computer Vision[cite: 67, 71, 72].
+
+### 📫 Let's Connect
+* **LinkedIn:** [Insert your LinkedIn link here]
+* [cite_start]**Email:** osmanfaizulla@nu.edu.kz [cite: 47]
